@@ -1,5 +1,5 @@
-Plaintext
+streamlit
 mysql-connector-python
 pandas
 fpdf2
-firebird-driver
+firebird-driver==1.1.0
