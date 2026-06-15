@@ -1,0 +1,5 @@
+Plaintext
+mysql-connector-python
+pandas
+fpdf2
+firebird-driver
